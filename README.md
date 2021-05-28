@@ -1,4 +1,4 @@
-# bitconnect-Linux-Server
+# bitconnect-RPC-Server
 
 bitconnect BlockChain Daemon RPC Server For Linux Cloud-Nodes, Apps, Bots And Explorers
 
