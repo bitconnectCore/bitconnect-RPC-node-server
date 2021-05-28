@@ -39,6 +39,8 @@ make libleveldb.a libmemenv.a
 
 **Part2 (build daemon):**
 
+cd bitconnect/src
+
 sudo make -f makefile.unix | sudo make -f makefile.unix PIE=1 STATIC=1
 
 
