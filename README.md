@@ -22,7 +22,9 @@ sudo apt-get install build-essential libssl-dev libdb++-dev libboost-all-dev lib
 **Part1 (build levelDB):**
 
 cd bitconnect/src/leveldb
+
 chmod +x build_detect_platform
+
 make libleveldb.a libmemenv.a
 
 
@@ -57,5 +59,7 @@ rpcport=
 **Part5 (start daemon):**
 
 cd bitconnect/src
+
 chmod +x bitconnectd
+
 ./bitconnectd start
