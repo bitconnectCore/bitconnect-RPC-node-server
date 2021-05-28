@@ -18,6 +18,7 @@ How to make a swap file (virtual RAM)
 ## Quick Notes
 
 Non precise deps:
+
 sudo apt-get install build-essential libssl-dev libdb++-dev libboost-all-dev libqrencode-dev miniupnpc libminiupnpc-dev autoconf pkg-config libtool autotools-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev automake -y
 
 
