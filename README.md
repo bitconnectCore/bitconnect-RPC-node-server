@@ -12,6 +12,8 @@ Has howto build writeup, but also includes static linux ~18.04 release for easin
 
 Includes daemon commands and .conf options, Example: server=1 with peers.
 
+How to make a swap file (virtual RAM)
+
 
 ## Quick Notes
 
