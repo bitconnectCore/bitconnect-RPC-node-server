@@ -1,6 +1,6 @@
 # bitconnect-Linux-Server
 
-bitconnect BlockChain Daemon RPC Server - For discord bots, explorers etc.
+bitconnect BlockChain Daemon RPC Server For Cloud-Nodes, Apps, Bots And Explorers
 
 In linux bash, possibly peices together releases from:
 
