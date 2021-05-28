@@ -12,11 +12,13 @@ Has howto build writeup, but also includes static linux ~18.04 release for easin
 
 Includes daemon commands and .conf options, Example: server=1 with peers.
 
-How to make a swap file (virtual RAM)
+How to make a swap file (virtual RAM).
 
-How to open ports (TCP 9239)
+How to open ports (TCP 9239).
 
-How to update peers.
+RPC default port is TCP 9240.
+
+How to update peers while server is running.
 
 
 ## Quick Notes
