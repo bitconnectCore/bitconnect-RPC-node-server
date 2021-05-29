@@ -6,7 +6,7 @@ In linux bash, possibly peices together releases from:
 
 https://github.com/bitconnectCore/bitconnect-blockchain-peers
 
-https://github.com/bitconnectCore/bitconnectCoin-blockchain-bootstrap
+https://github.com/bitconnectCore/bitconnect-blockchain-bootstrap
 
 Has howto build writeup, but also includes static linux ~18.04 release for easiness.
 
