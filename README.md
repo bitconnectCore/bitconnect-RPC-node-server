@@ -1,6 +1,6 @@
-# bitconnect-RPC-node-server
+# bitconnect-RPC-server-node
 
-**bitconnect BlockChain RPC Node Server For Cloud-Nodes, Apps, Bots And Explorers**
+**bitconnect BlockChain RPC Server Node For Clouds, Apps, Bots And Explorers**
 
 In linux bash, possibly peices together releases from:
 
